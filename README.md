@@ -2,7 +2,7 @@
 
 ChefDelivery é um aplicativo de entrega de alimentos que permite aos usuários explorar uma variedade de restaurantes e fazer pedidos de forma conveniente.
 
-Este projeto é uma demonstração do desenvolvimento de interfaces de usuário e funcionalidades básicas de um aplicativo de entrega de alimentos.
+Este projeto é uma demonstração do desenvolvimento de interfaces de usuário e funcionalidades básicas de um aplicativo de entrega de alimentos. Foi utulizada a versão 17.4 do XCode e o projeto foi desenvolvido para iphone 15.
 
 Recursos Principais
 
